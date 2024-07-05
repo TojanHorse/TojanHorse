@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bobby Singh Mangwal</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojanhorse&label=Profile%20views&color=0e75b6&style=flat" alt="tojanhorse" /> </p>
 
