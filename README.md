@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Sockets**
 
-- 🌱 I’m currently learning **M.E.R.N Stack and Web3**
+- 🌱 I’m currently learning ** Web3**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-silk-five-96.vercel.app/](https://portfolio-silk-five-96.vercel.app/)
 
